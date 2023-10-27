@@ -8,6 +8,7 @@ This repository contains a Python application with a Flask-based REST API and a 
 * `docker-compose.yml`: Docker Compose configuration for the application and database
 * `Makefile`: Contains commands for building, starting, and stopping the API
 * `Dockerfile`: Defines the Docker image for the Python application
+* `.env`: Virtual environment.
 * `src/app.py`: The main Python application implementing the Flask-based REST API
 * `src/requirements`: List of Python dependencies
 * `src/static/swagger.yaml`: Swagger API documentation YAML file
