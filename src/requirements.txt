@@ -1,0 +1,4 @@
+flask==3.0.0
+flask-pymongo==2.3.0
+flask-swagger-ui==4.11.1
+pymongo==4.5.0
